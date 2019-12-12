@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bad</folder>
+	<filename>IMG-20191203-WA0093.jpg</filename>
+	<path>/home/mansi/Dhyey/Data/Bad/IMG-20191203-WA0093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BAD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>128</ymin>
+			<xmax>265</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
